@@ -5,9 +5,11 @@
 Compose descarga 
 crear proyecto:
 basico
-	php composer.phar create-project yiisoft/yii2-app-basic basic
+	composer create-project yiisoft/yii2-app-basic yiirestapiby  => OK
+	php composer.phar create-project yiisoft/yii2-app-basic basic => error
+
 advanzado
-	php composer.phar create-project yiisoft/yii2-app-basic basic
+	php composer.phar create-project yiisoft/yii2-app-advanced advanced
 descarga de archivo template 
 	https://www.yiiframework.com/download
 
